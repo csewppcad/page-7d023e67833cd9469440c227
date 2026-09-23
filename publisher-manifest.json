@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bb400921879f0d722af9a6de",
+  "owner": "csewppcad",
+  "repo": "page-7d023e67833cd9469440c227",
+  "title": "瞬间加密网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7d023e67833cd9469440c227",
+      "a": "瞬间加密网络",
+      "b": "2027最新官网",
+      "entity": "瞬间加密网络",
+      "brand": "瞬间加密网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fdc3316538ce4eb00ae3ff0c28a324cc157737dd823425f2a509b3e691c831f6",
+      "content": {
+        "primary_entity": "瞬间加密网络",
+        "keyword1": "瞬间加密网络",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求挑选套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，瞬间加密网络提供基础版、旗舰版与团队版三档订阅，月付分别 15 元、35 元、85 元，年付分别 150 元、350 元、850 元；旗舰版具备 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持 20 台设备与专属客户经理。选择时先确认常用设备数量与月度流量，再按 Windows、macOS、Android、iOS 或路由器客户端文档导入订阅。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度衡量是否合适。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，适合多人共享与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "先确定套餐档位与设备数量，再依照客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "瞬间加密网络提供三档海外加速订阅，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备。按设备数量、常用应用与预算选定套餐，再在对应客户端导入订阅配置。",
+          "AI_HERO_SUBTITLE": "三档订阅按设备与流量挑选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月 或 ¥150/年",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月 含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月 支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在月流量、设备数量与节点权益上依次递增，对比月付与年付价格后按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与节点权益要求。",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅，完成连接与节点选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "瞬间加密网络订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "瞬间加密网络的套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可以。在订阅周期内如需调整，可参考服务方说明操作。升级旗舰版或团队版通常能获得更多流量与设备数，具体以当前套餐规则为准。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版3台，旗舰版5台，团队版20台。设备数按同时在线计算，手机、平板与桌面客户端均计为独立设备。",
+          "AI_FAQ_QUESTION_3": "年付怎么选更划算？",
+          "AI_FAQ_ANSWER_3": "按年付整体低于月付合计。基础版年付150元，旗舰版350元，团队版850元。使用周期超过半年时，年付通常更经济。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏与实时通信做了延迟优化，适合对稳定性要求较高的场景。日常浏览与流媒体使用基础线路也已足够。",
+          "AI_FAQ_QUESTION_5": "订阅导入遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先核对订阅链接格式是否被客户端支持，再确认设备网络状态。旗舰版与团队版提供优先工单支持，可联系客户经理协助排查。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vvshop-u40k507h.com",
+    "host": "xn--vvshop-u40k507h.com"
+  },
+  "file_hashes": {
+    "index.html": "1602ea76429f26dc8bfcbda2bc94c83a72a2186d774baea8227e1ad0596b23b9",
+    "sitemap.xml": "ab964584c4e82e548da153120d6b7597f207da913aa85b0852a0f5756b649b0a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e932549ef19a11470e7490105d9fde43fb9947ac2425b09b783b785ccf26515",
+    "robots.txt": "485fbc73692fd20dfbe0828df735af20237ea0c33e5afb76324992d56424e427",
+    "6edb634b73b42780bdf963847567b206.txt": "bbc75aaaeff0f6096b271368bd7fbf3715733d816455affda0945ce4d8eccaea"
+  },
+  "revision": "f10586a7b9ec6d930d8b3b2996c0dc710a9833d6ea7d2f8b8797d6f5c7c54415"
+}
